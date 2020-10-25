@@ -16,5 +16,5 @@ vector<int> solution(vector<int> prices) {
             }
         }
     }    
-    return answer;
-}
+    return answer; 
+} 
