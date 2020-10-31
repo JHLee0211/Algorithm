@@ -1,7 +1,6 @@
 /*
  - https://programmers.co.kr/learn/courses/30/lessons/64064
  - 다시풀어보자.. 너무 이상하게 풀었다
-= 
 */
 
 #include <string>
