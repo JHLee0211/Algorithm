@@ -25,5 +25,6 @@
 
     * [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
     * [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+    * [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
     
     [풀이](https://github.com/JHLee0211/Algorithm/tree/khk/StackQueue)
