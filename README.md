@@ -20,3 +20,9 @@
     * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
     
     [풀이](https://github.com/JHLee0211/Algorithm/tree/khk/BruteForce)
+
+* 스택/큐
+
+    * [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+
+    [풀이](https://github.com/JHLee0211/Algorithm/tree/khk/StackQueue)
