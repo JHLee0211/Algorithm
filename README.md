@@ -24,5 +24,6 @@
 * 스택/큐
 
     * [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
-
+    * [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+    
     [풀이](https://github.com/JHLee0211/Algorithm/tree/khk/StackQueue)
