@@ -1,3 +1,2 @@
 # Algorithm
-Hi!!
-Bye!!
+https://www.acmicpc.net/user/honeybear
