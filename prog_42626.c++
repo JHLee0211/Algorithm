@@ -15,14 +15,10 @@ int solution(vector<int> scoville, int K) {
     }
 
     while(pq.top()<K){
-        if(pq.size()==1){
-            answer=-1; break;
-        }
+        if(pq.size()==1){ answer=-1; break; }
         answer++;
-        int n1 = pq.top();
-        pq.pop();
-        int n2 = pq.top();
-        pq.pop();
+        int n1 = pq.top(); pq.pop();
+        int n2 = pq.top(); pq.pop();
         pq.push(n1+n2*2);
     }
 
