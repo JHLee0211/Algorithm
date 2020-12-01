@@ -35,5 +35,11 @@
     * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
     * [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
     * [이중유선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
-    
+
     [풀이](https://github.com/JHLee0211/Algorithm/tree/khk/Heap)
+
+* 정렬
+
+    * [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+
+    [풀이](https://github.com/JHLee0211/Algorithm/tree/khk/Sort)
