@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class 전화번호목록 {
     public boolean solution(String[] phone_book) {
         Arrays.sort(phone_book);
         int size = phone_book.length-1;

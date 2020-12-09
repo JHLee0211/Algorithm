@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-class Solution {
+class 기능개발 {
     public int[] solution(int[] progresses, int[] speeds) {
         int[] days = new int[progresses.length];
         

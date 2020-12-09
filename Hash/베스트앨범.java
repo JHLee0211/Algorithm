@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-class Solution {
+class 베스트앨범 {
     public static LinkedHashMap<String, Integer> sortMapByValue(Map<String, int[]> map){
         LinkedList<Map.Entry<String, int[]>> entries = new LinkedList<>(map.entrySet());
         Collections.sort(entries, (o1, o2) -> {

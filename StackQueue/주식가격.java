@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-class Solution {
+class 주식가격 {
     public int[] solution(int[] prices) {
         int[] answer = new int[prices.length];
         Stack<Integer> stk = new Stack<>();

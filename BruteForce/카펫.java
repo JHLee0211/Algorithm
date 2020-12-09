@@ -1,4 +1,4 @@
-class Solution {
+class 카펫 {
     public int[] solution(int brown, int yellow) {
         int[] answer = new int[2];
         int xy = (brown+4)/2;

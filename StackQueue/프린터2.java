@@ -1,8 +1,7 @@
 import java.util.LinkedList;
 import java.util.Arrays;
-import java.util.Collections;
 
-class Solution {
+class 프린터2 {
     public int solution(int[] priorities, int location) {
         int answer = 1;
         int idx = location;

@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-class Solution {
+class 프린터{
     public int solution(int[] priorities, int location) {
         int answer = 0;
         LinkedList<int[]> q = new LinkedList<>();

@@ -1,6 +1,6 @@
 import java.util.ArrayList;
     
-class Solution {
+class 모의고사 {
     public int[] solution(int[] answers) {
         int[] answer = {};
         int highScore = 0;

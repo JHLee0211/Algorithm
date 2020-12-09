@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Solution {
+class 소수찾기 {
     public int r;
     public int n;
     public boolean[] notPrime;

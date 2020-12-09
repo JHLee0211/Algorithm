@@ -1,6 +1,6 @@
 import java.util.PriorityQueue;
 
-class Solution {
+class 이중우선순위큐 {
     public int[] solution(String[] operations) {
         int[] answer = {0, 0};
         PriorityQueue<Integer> ascend = new PriorityQueue<Integer>();

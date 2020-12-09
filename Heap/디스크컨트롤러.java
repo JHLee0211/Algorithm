@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-class Solution {
+class 디스크컨트롤러 {
     public int solution(int[][] jobs) {
         int answer = 0;
         

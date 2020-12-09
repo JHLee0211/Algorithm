@@ -1,8 +1,6 @@
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.PriorityQueue;
     
-class Solution {
+class 더맵게 {
     public int solution(int[] scoville, int K) {
         int answer = 0;
         PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
